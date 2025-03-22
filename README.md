@@ -12,6 +12,6 @@ Key tasks:
 * Identifying best customers
 * Quantifying company performance over time
 
-##[Bridge Lookup Queries](https://github.com/mattwilliams-ds/SQL-projects/tree/main/Bridge_Lookup)
+## [Bridge Lookup Queries](https://github.com/mattwilliams-ds/SQL-projects/tree/main/Bridge_Lookup)
 
 A set of queries developed to make searching for bridge of interest within the National Bridge Inventory.
